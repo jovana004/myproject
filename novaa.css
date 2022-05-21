@@ -1,0 +1,24 @@
+body {
+    font-family: 'Times New Roman', Times, serif;    
+}
+p{
+    color: darksalmon;
+    margin-block-start: 1.5em;
+}
+p.crveno{
+    color: firebrick;
+}
+p.plavo{
+    color: midnightblue;
+}
+p.mojfont{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+body.light{
+    background: navy;
+    color: seashell;
+}
+body.dark{
+    background: seashell;
+    color: navy;
+}
